@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+form > div {
+  display: flex;
+}
+
+input {
+  padding: 10px 20px;
+  margin-left: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 20px;
+  border: none;
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+}
